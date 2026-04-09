@@ -6,6 +6,12 @@ The dashboard follows a realistic business reporting approach, emphasizing clari
 
 ---
 
+## About Me
+I am a Junior Data Analyst with a strong focus on Power BI, DAX, and business-oriented analytics.  
+My work emphasizes clean data preparation, optimized data modeling, KPI development, and transforming raw data into actionable insights that support decision-making.
+
+---
+
 ## Business Objectives ##
 - Monitor core business KPIs in a single executive view
 - Track actual performance versus monthly targets
