@@ -47,7 +47,7 @@ Explains why performance deviates from plan.
 
 ---
 
-## Tools & Techniques
+## Tools & Techniques ##
 - Power BI Desktop
 - Power Query (data preparation and transformation)
 - DAX (KPIs, variance analysis, profit and margin calculations)
@@ -57,5 +57,19 @@ Explains why performance deviates from plan.
  
 ---
 
+## Business Value ##
+- Clear visibility into business performance
+- Faster identification of variance drivers
+- Improved operational and financial transparency
+- Practical example of a deployable management dashboard
+
+---
+
 ## Contact ##
+- LinkedIn: https://www.linkedin.com/in/luka-milenkovic-74768a285
+- Email: m.milenkovicluka@gmail.com 
+- GitHub: https://github.com/lukamilenkovic25
+
+---
+
 
