@@ -1,4 +1,4 @@
-# KPI Performance Dashboard - Business Decision Support
+# KPI Performance - Business Decision Support (PowerBI)
 ## Project Overview ##
 This Power BI project delivers a client‑ready KPI Performance Dashboard designed to support executive decision‑making.
 The solution focuses on monitoring revenue, costs, profit, and performance versus targets, enabling management to quickly identify deviations, understand key drivers, and take corrective actions.
